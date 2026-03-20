@@ -1,0 +1,32 @@
+# Java / Spring Boot (Backend)
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/.apt_generated
+backend/.classpath
+backend/.factorypath
+backend/.project
+backend/.settings
+backend/.sts4-cache
+
+# Node / React (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/.pnpm-debug.log*
+
+# Environment Variables
+*.local
+.env
+.env.*
+
+# Editor / OS
+.vscode/
+.idea/
+*.iws
+*.iml
+*.ipr
+.DS_Store
+Thumbs.db
